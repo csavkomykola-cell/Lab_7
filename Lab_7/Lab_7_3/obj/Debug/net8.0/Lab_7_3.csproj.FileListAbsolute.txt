@@ -1,0 +1,14 @@
+D:\College\OPAM\Lab_7\Lab_7_3\bin\Debug\net8.0\Lab_7_3.exe
+D:\College\OPAM\Lab_7\Lab_7_3\bin\Debug\net8.0\Lab_7_3.deps.json
+D:\College\OPAM\Lab_7\Lab_7_3\bin\Debug\net8.0\Lab_7_3.runtimeconfig.json
+D:\College\OPAM\Lab_7\Lab_7_3\bin\Debug\net8.0\Lab_7_3.dll
+D:\College\OPAM\Lab_7\Lab_7_3\bin\Debug\net8.0\Lab_7_3.pdb
+D:\College\OPAM\Lab_7\Lab_7_3\obj\Debug\net8.0\Lab_7_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\OPAM\Lab_7\Lab_7_3\obj\Debug\net8.0\Lab_7_3.AssemblyInfoInputs.cache
+D:\College\OPAM\Lab_7\Lab_7_3\obj\Debug\net8.0\Lab_7_3.AssemblyInfo.cs
+D:\College\OPAM\Lab_7\Lab_7_3\obj\Debug\net8.0\Lab_7_3.csproj.CoreCompileInputs.cache
+D:\College\OPAM\Lab_7\Lab_7_3\obj\Debug\net8.0\Lab_7_3.dll
+D:\College\OPAM\Lab_7\Lab_7_3\obj\Debug\net8.0\refint\Lab_7_3.dll
+D:\College\OPAM\Lab_7\Lab_7_3\obj\Debug\net8.0\Lab_7_3.pdb
+D:\College\OPAM\Lab_7\Lab_7_3\obj\Debug\net8.0\Lab_7_3.genruntimeconfig.cache
+D:\College\OPAM\Lab_7\Lab_7_3\obj\Debug\net8.0\ref\Lab_7_3.dll
