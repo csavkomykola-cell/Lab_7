@@ -1,7 +1,7 @@
 ﻿using System;
 class BankTerminal
 {
-    public Action<int> OnMoneyWithdraw;
+    public event Action<int> OnMoneyWithdraw;
     public void Withdraw(int amount)
     {
         Console.WriteLine($"Зняття {amount} грн...");
@@ -18,8 +18,5 @@ class Program
             Console.WriteLine($"Лог: знято {amount} грн");
         };
         terminal.Withdraw(100);
-        terminal.OnMoneyWithdraw = null;
-        terminal.Withdraw(200);
-        terminal.OnMoneyWithdraw?.Invoke(1000000);
     }
 }
